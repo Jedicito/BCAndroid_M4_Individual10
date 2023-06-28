@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">M4_Individual10</string>
+    <string name="etx_nombre">Nombre</string>
+    <string name="etx_apellidos">Apellidos</string>
+    <string name="etx_correo">Correo</string>
+    <string name="etx_clave">Contraseña</string>
+    <string name="btn_registrar">Registrar</string>
+    <string name="img_retrato">Retrato</string>
+    <string name="toast_usuarioCreado">Usuario creado</string>
+    <string name="toast_faltanParametros">Faltan parametros</string>
+    <string name="faltaNombre">Falta nombre</string>
+    <string name="faltaApellidos">Falta apellido</string>
+    <string name="faltaCorreo">Falta correo</string>
+    <string name="faltaClave">Falta contraseña</string>
+</resources>
