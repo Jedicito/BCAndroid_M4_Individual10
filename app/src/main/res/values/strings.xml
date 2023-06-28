@@ -12,4 +12,8 @@
     <string name="faltaApellidos">Falta apellido</string>
     <string name="faltaCorreo">Falta correo</string>
     <string name="faltaClave">Falta contraseña</string>
+    <string name="nombre_defecto">Cesar</string>
+    <string name="apellidos_defecto">Seron</string>
+    <string name="correo_defecto">cesar@seron.cl</string>
+    <string name="clave_defecto">123456</string>
 </resources>

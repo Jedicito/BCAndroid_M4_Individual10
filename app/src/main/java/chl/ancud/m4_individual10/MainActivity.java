@@ -19,6 +19,16 @@ public class MainActivity extends AppCompatActivity {
 
         setContentView(binding.getRoot());
 
+        TextView eTx_nombre = binding.eTxNombre;
+        TextView eTx_apellidos = binding.eTxApellidos;
+        TextView eTx_correo = binding.eTxCorreo;
+        TextView eTx_clave = binding.eTxClave;
+
+       eTx_nombre.setText(R.string.nombre_defecto);
+       eTx_apellidos.setText(R.string.apellidos_defecto);
+       eTx_correo.setText(R.string.correo_defecto);
+       eTx_clave.setText(R.string.clave_defecto);
+
 
         binding.btnCrearCuenta.setOnClickListener(new View.OnClickListener() {
             @Override
